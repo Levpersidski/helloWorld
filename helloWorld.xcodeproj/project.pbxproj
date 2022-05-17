@@ -12,7 +12,7 @@
 		B69D29012832FCBD00F66259 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69D29002832FCBD00F66259 /* ViewController.swift */; };
 		B69D29042832FCBD00F66259 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B69D29022832FCBD00F66259 /* Main.storyboard */; };
 		B69D29062832FCBD00F66259 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B69D29052832FCBD00F66259 /* Assets.xcassets */; };
-		B69D29092832FCBD00F66259 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B69D29072832FCBD00F66259 /* LaunchScreen.storyboard */; };
+		B6D422442833CE7A00F12850 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B69D29072832FCBD00F66259 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -125,7 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B69D29092832FCBD00F66259 /* LaunchScreen.storyboard in Resources */,
+				B6D422442833CE7A00F12850 /* LaunchScreen.storyboard in Resources */,
 				B69D29062832FCBD00F66259 /* Assets.xcassets in Resources */,
 				B69D29042832FCBD00F66259 /* Main.storyboard in Resources */,
 			);
